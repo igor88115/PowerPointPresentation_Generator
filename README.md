@@ -1,2 +1,2 @@
 # PowerPointPresentation_Generator
-Power Point Slides Presentation generator from text
+Power Point Slides Presentation generator
